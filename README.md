@@ -3,9 +3,9 @@
 hi friends my name is likhit welcome to my profile . i am just 13 and i want to become a web devoloper
 .so i made this simple file which is attached to my profile.lol.lets look at some languages in which
 i code. :octocat:
-*html
-*css
-*readme.md
+1.html
+2.css
+3.readme.md
 thats it friends
 
 <!--
