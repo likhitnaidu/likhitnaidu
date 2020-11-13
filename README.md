@@ -18,6 +18,7 @@ thats it friends
 - 📫 How to reach me: ... my email m.likhitgithub@gmail.com
 - 😄 Pronouns: ...???
 - ⚡ Fun fact: ... lol
+![Alt Text](https://github.com/{user}/{repo}/raw/master/path/to/image.gif)
 
 
 
