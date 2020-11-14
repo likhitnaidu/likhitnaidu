@@ -18,7 +18,7 @@ thats it friends
 - 📫 How to reach me: ... my email m.likhitgithub@gmail.com
 - 😄 Pronouns: ...???
 - ⚡ Fun fact: ... lol
-happy diwali:diya:
+happy diwali:octocat:
 
 
 
