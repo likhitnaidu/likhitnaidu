@@ -17,8 +17,8 @@ thats it friends
 - 💬 Ask me about ... nothing
 - 📫 How to reach me: ... my email m.likhitgithub@gmail.com
 - 😄 Pronouns: ...???
-- ⚡ Fun fact: ... lol
-happy diwali:octocat:
+- ⚡ Fun fact: ... check out japanese anime
+:octocat:
 
 
 
