@@ -1,0 +1,14 @@
+*{
+    background-image: url('./5C9DBBE8-0EF4-4180-8D9D-71F80FD02906.gif');
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    margin: 0;
+    background-color: black;
+    font-family: 'samarkan',sans-serif;
+}
+@font-face{
+    font-family: 'samarkan';
+    src: url('./SAMARN__.TTF');
+
+}
