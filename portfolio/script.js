@@ -1,5 +1,5 @@
 let backToTopBtn = document.getElementById("backToTopBtn");
-window.onscroll = function() { scrollFunction(); };
+window.onscroll = function () { scrollFunction(); };
 
 function scrollFunction() {
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
@@ -14,8 +14,8 @@ function scrollToTop() {
 }
 
 function scrolltoskills(event) {
-  event.preventDefault(); 
-  const targetId = event.target.getAttribute("href").substring(1); 
+  event.preventDefault();
+  const targetId = event.target.getAttribute("href").substring(1);
   const targetElement = document.getElementById(targetId);
 
   if (targetElement) {
@@ -23,8 +23,8 @@ function scrolltoskills(event) {
   }
 }
 function scrolltohome(event) {
-  event.preventDefault(); 
-  const targetId = event.target.getAttribute("href").substring(1); 
+  event.preventDefault();
+  const targetId = event.target.getAttribute("href").substring(1);
   const targetElement = document.getElementById(targetId);
 
   if (targetElement) {
@@ -32,8 +32,8 @@ function scrolltohome(event) {
   }
 }
 function scrolltoabout(event) {
-  event.preventDefault(); 
-  const targetId = event.target.getAttribute("href").substring(1); 
+  event.preventDefault();
+  const targetId = event.target.getAttribute("href").substring(1);
   const targetElement = document.getElementById(targetId);
 
   if (targetElement) {
@@ -41,11 +41,12 @@ function scrolltoabout(event) {
   }
 }
 function scrolltocontact(event) {
-  event.preventDefault(); 
-  const targetId = event.target.getAttribute("href").substring(1); 
+  event.preventDefault();
+  const targetId = event.target.getAttribute("href").substring(1);
   const targetElement = document.getElementById(targetId);
 
   if (targetElement) {
     targetElement.scrollIntoView({ behavior: "smooth" });
   }
 }
+
