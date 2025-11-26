@@ -13,11 +13,11 @@
 I’m a tech enthusiast who loves building software solutions using AI, web development, and data analysis. I’m constantly learning and experimenting with new technologies, frameworks, and languages.  
 
 **Skills & Interests:**  
-- **Languages:** Python, JavaScript, C, C++, Rust  
-- **Web Development:** HTML, CSS, React.js, Node.js  
-- **AI/ML:** scikit-learn, TensorFlow, pandas, numpy  
+- **Languages:** JavaScript, C, C++  
+- **Web Development:** HTML, CSS, Lovable, v0 dev 
+- **AI/ML:** Learning Python 
 - **Version Control:** Git, GitHub  
-- **Tools:** VS Code, GitHub Pages, Docker, Vercel  
+- **Tools:** VS Code, GitHub Pages, Vercel  
 
 ---
 
@@ -27,8 +27,6 @@ Here are a few of my notable projects:
 ### [Pecura-AI](https://github.com/likhitnaidu/Pecura-AI)
 AI-powered financial insights platform with real-time stock market analysis, interactive dashboards, and predictive modeling.
 
-### Chess Game (JavaScript)
-A browser-based chess game with drag-and-drop functionality, valid move logic, and move history.
 
 ### Portfolio Website
 A personal portfolio to showcase projects, skills, and achievements. Built using HTML, CSS, and JavaScript.
@@ -47,4 +45,4 @@ A personal portfolio to showcase projects, skills, and achievements. Built using
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Talk is cheap.Show me the Code”
