@@ -1,6 +1,6 @@
 # M. Likhit Naidu
 
-> Welcome to my GitHub! I’m a Computer Science Engineering student passionate about software development, AI, and web technologies. I build projects that are practical, interactive, and deployable.  
+> Welcome to my GitHub! I’m a Computer Science Engineering student passionate about software development, AI, and web technologies. I build projects that are practical, interactive, and deployable.
 
 [![GitHub Followers](https://img.shields.io/github/followers/likhitnaidu?style=social)](https://github.com/likhitnaidu)
 [![GitHub Stars](https://img.shields.io/github/stars/likhitnaidu?style=social)](https://github.com/likhitnaidu)
@@ -10,10 +10,10 @@
 ---
 
 ## About Me
-I’m a tech enthusiast who loves building software solutions using AI, web development, and data analysis. I’m constantly learning and experimenting with new technologies, frameworks, and languages.  
+I’m a tech enthusiast who loves building software solutions using AI, web development, and data analysis. I’m constantly learning and experimenting with new technologies, frameworks, and languages.
 
-**Skills & Interests:**  
-- **Languages:** JavaScript, C, C++  
+**Skills & Interests:**
+- **Languages:** JavaScript, C, C++ ,Python 
 - **Web Development:** HTML, CSS, Lovable, v0 dev 
 - **AI/ML:** Learning Python 
 - **Version Control:** Git, GitHub  
