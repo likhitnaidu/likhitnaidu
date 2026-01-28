@@ -5,7 +5,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/likhitnaidu?style=social)](https://github.com/likhitnaidu)
 [![GitHub Stars](https://img.shields.io/github/stars/likhitnaidu?style=social)](https://github.com/likhitnaidu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://linkedin.com/in/mlikhitnaidu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://likhitnaidu.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://porfolio-main-amber.vercel.app/)
 
 ---
 
