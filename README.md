@@ -1,5 +1,4 @@
-# M. Likhit Naidu(https://porfolio-main-amber.vercel.app/)
-
+# M. Likhit Naidu
 > Welcome to my GitHub! I’m a Computer Science Engineering student passionate about software development, AI, and web technologies. I build projects that are practical, interactive, and deployable.
 
 [![GitHub Followers](https://img.shields.io/github/followers/likhitnaidu?style=social)](https://github.com/likhitnaidu)
