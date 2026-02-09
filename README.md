@@ -1,4 +1,4 @@
-# M. Likhit Naidu
+# [M. Likhit Naidu](porfolio-main.vercel.app)
 
 > Welcome to my GitHub! I’m a Computer Science Engineering student passionate about software development, AI, and web technologies. I build projects that are practical, interactive, and deployable.
 
@@ -24,8 +24,8 @@ I’m a tech enthusiast who loves building software solutions using AI, web deve
 ## Projects
 Here are a few of my notable projects:
 
-### [Pecura-AI](https://github.com/likhitnaidu/Pecura-AI)
-AI-powered financial insights platform with real-time stock market analysis, interactive dashboards, and predictive modeling.
+### [Recyclytix](https://github.com/likhitnaidu/recyclytix)
+Waste management project to spread awarness with integrated map and a prepratory guide.
 
 
 ### Portfolio Website
