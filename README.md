@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlydmgwOHhvZHNmcXRkcm5yMDUxMnYxenMxN2l0Z3V5a28yaHJ1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="500">
 </p>
 
 <h1 align="center">M. Likhit Naidu</h1>
+
 <p align="center">
-  Computer Science Engineering Student • Builder
+Computer Science Engineering Student • Builder • Tech Explorer
 </p>
 
 <p align="center">
@@ -26,38 +27,53 @@
 
 ## About Me
 
-I’m a Computer Science Engineering student who enjoys building **practical software and experimenting with new technologies**.
+I’m a Computer Science Engineering student passionate about building **interactive and practical software**.
 
-Currently exploring:
+I enjoy experimenting with:
 - Web development
-- AI tools and automation
-- Interactive applications
-- Deployable projects
+- AI tools
+- automation
+- deployable projects
 
-I like building things that are **simple, functional, and actually useful**.
+My focus is simple:
+
+> Build things that actually work and ship them.
 
 ---
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
-`JavaScript` • `Python` • `C` • `C++`
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,c,cpp" />
+</p>
 
-**Web Development**
+### Web Development
 
-`HTML` • `CSS` • `JavaScript`
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-**Tools**
+### Tools
 
-`Git` • `GitHub` • `VS Code` • `Vercel`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWI0MW9uYjlvbXBzbzdma2Fyb29vbnBlaXdhZjlqeGV3MGsxOGY5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif" width="400">
+</p>
 
 ---
 
 ## Projects
 
 ### Recyclytix
-Waste management awareness platform with maps and guides.
+
+Waste management awareness platform with integrated maps and guides.
 
 🔗 https://github.com/likhitnaidu/recyclytix
 
@@ -65,7 +81,7 @@ Waste management awareness platform with maps and guides.
 
 ### Portfolio Website
 
-Personal portfolio to showcase projects and skills.
+Personal website showcasing projects and skills.
 
 🔗 https://porfolio-main-amber.vercel.app/
 
@@ -91,5 +107,5 @@ Personal portfolio to showcase projects and skills.
 ---
 
 <p align="center">
-  <b>"Talk is cheap. Show me the code."</b>
+<b>"Talk is cheap. Show me the code."</b>
 </p>
