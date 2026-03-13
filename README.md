@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlydmgwOHhvZHNmcXRkcm5yMDUxMnYxenMxN2l0Z3V5a28yaHJ1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="500">
-</p>
-
 <h1 align="center">M. Likhit Naidu</h1>
 
 <p align="center">
@@ -25,19 +21,38 @@ Computer Science Engineering Student • Builder • Tech Explorer
 
 ---
 
+<table>
+<tr>
+<td width="60%">
+
 ## About Me
 
 I’m a Computer Science Engineering student passionate about building **interactive and practical software**.
 
 I enjoy experimenting with:
-- Web development
-- AI tools
-- automation
-- deployable projects
+
+- Web development  
+- AI tools  
+- automation  
+- deployable projects  
 
 My focus is simple:
 
-> Build things that actually work and ship them.
+> **Build things that actually work and ship them.**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlydmgwOHhvZHNmcXRkcm5yMDUxMnYxenMxN2l0Z3V5a28yaHJ1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="180">
+
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem54Z3ptNnJiMjZvMjZlOW41b3MzYW1rZG05bmEzYXlhamJqaGk5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif" width="180">
+
+</td>
+</tr>
+</table>
 
 ---
 
