@@ -23,6 +23,9 @@ Computer Science Engineering Student • Builder • Tech Explorer
 
 ## About Me
 
+
+<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem54Z3ptNnJiMjZvMjZlOW41b3MzYW1rZG05bmEzYXlhamJqaGk5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif">
+
 I’m a Computer Science Engineering student passionate about building **interactive and practical software**.
 
 I enjoy experimenting with:
@@ -30,9 +33,6 @@ I enjoy experimenting with:
 - AI tools
 - automation
 - deployable projects
-
-
-<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem54Z3ptNnJiMjZvMjZlOW41b3MzYW1rZG05bmEzYXlhamJqaGk5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif">
 
 My focus is simple:
 
