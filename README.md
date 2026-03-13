@@ -20,7 +20,7 @@ Computer Science Engineering Student • Builder • Tech Explorer
 </p>
 
 ---
-<br><br>
+<br><br><br><br><br><br><br><br>
 <img align="right" width="200" margin-top="100px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem54Z3ptNnJiMjZvMjZlOW41b3MzYW1rZG05bmEzYXlhamJqaGk5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif">
 
 ## About Me
