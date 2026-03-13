@@ -1,50 +1,95 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlydmgwOHhvZHNmcXRkcm5yMDUxMnYxenMxN2l0Z3V5a28yaHJ1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
-# M. Likhit Naidu
-> Welcome to my GitHub! I’m a Computer Science Engineering student passionate about software development, AI, and web technologies. I build projects that are practical, interactive, and deployable.
 
-[![GitHub Followers](https://img.shields.io/github/followers/likhitnaidu?style=social)](https://github.com/likhitnaidu)
-[![GitHub Stars](https://img.shields.io/github/stars/likhitnaidu?style=social)](https://github.com/likhitnaidu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://linkedin.com/in/mlikhitnaidu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://porfolio-main-amber.vercel.app/)
+<h1 align="center">M. Likhit Naidu</h1>
+<p align="center">
+  Computer Science Engineering Student • Builder
+</p>
+
+<p align="center">
+  <a href="https://github.com/likhitnaidu">
+    <img src="https://img.shields.io/github/followers/likhitnaidu?style=social">
+  </a>
+  <a href="https://github.com/likhitnaidu">
+    <img src="https://img.shields.io/github/stars/likhitnaidu?style=social">
+  </a>
+  <a href="https://linkedin.com/in/mlikhitnaidu">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  </a>
+  <a href="https://porfolio-main-amber.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black">
+  </a>
+</p>
 
 ---
 
 ## About Me
-I’m a tech enthusiast who loves building software solutions using AI, web development, and data analysis. I’m constantly learning and experimenting with new technologies, frameworks, and languages.
 
-**Skills & Interests:**
-- **Languages:** JavaScript, C, C++ ,Python 
-- **Web Development:** HTML, CSS, Lovable, v0 dev 
-- **AI/ML:** Learning Python 
-- **Version Control:** Git, GitHub  
-- **Tools:** VS Code, GitHub Pages, Vercel  
+I’m a Computer Science Engineering student who enjoys building **practical software and experimenting with new technologies**.
+
+Currently exploring:
+- Web development
+- AI tools and automation
+- Interactive applications
+- Deployable projects
+
+I like building things that are **simple, functional, and actually useful**.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+`JavaScript` • `Python` • `C` • `C++`
+
+**Web Development**
+
+`HTML` • `CSS` • `JavaScript`
+
+**Tools**
+
+`Git` • `GitHub` • `VS Code` • `Vercel`
 
 ---
 
 ## Projects
-Here are a few of my notable projects:
 
-### [Recyclytix](https://github.com/likhitnaidu/recyclytix)
-Waste management project to spread awarness with integrated map and a prepratory guide.
+### Recyclytix
+Waste management awareness platform with maps and guides.
 
+🔗 https://github.com/likhitnaidu/recyclytix
+
+---
 
 ### Portfolio Website
-A personal portfolio to showcase projects, skills, and achievements. Built using HTML, CSS, and JavaScript.
+
+Personal portfolio to showcase projects and skills.
+
+🔗 https://porfolio-main-amber.vercel.app/
 
 ---
 
 ## GitHub Stats
-![Likhit Naidu GitHub Stats](https://github-readme-stats.vercel.app/api?username=likhitnaidu&show_icons=true&theme=radical)
-i know pathetic 😭
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=likhitnaidu&show_icons=true&theme=radical" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhitnaidu&layout=compact&theme=radical" height="170">
+</p>
+
 ---
 
 ## Contact
-- **Email:** m.likhitwork@gmail.com  
-- **LinkedIn:** [linkedin.com/in/likhitnaidu](https://linkedin.com/in/likhitnaidu)  
-- **GitHub:** [github.com/likhitnaidu](https://github.com/likhitnaidu)  
+
+📧 m.likhitwork@gmail.com  
+
+🔗 https://linkedin.com/in/mlikhitnaidu  
+
+💻 https://github.com/likhitnaidu  
 
 ---
 
-> “Talk is cheap.Show me the Code”
+<p align="center">
+  <b>"Talk is cheap. Show me the code."</b>
+</p>
