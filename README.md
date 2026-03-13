@@ -1,35 +1,6 @@
-![GITHUB](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlydmgwOHhvZHNmcXRkcm5yMDUxMnYxenMxN2l0Z3V5a28yaHJ1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlydmgwOHhvZHNmcXRkcm5yMDUxMnYxenMxN2l0Z3V5a28yaHJ1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="500">
+</p>
 # M. Likhit Naidu
 > Welcome to my GitHub! I’m a Computer Science Engineering student passionate about software development, AI, and web technologies. I build projects that are practical, interactive, and deployable.
 
