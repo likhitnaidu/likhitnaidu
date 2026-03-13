@@ -21,38 +21,21 @@ Computer Science Engineering Student • Builder • Tech Explorer
 
 ---
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem54Z3ptNnJiMjZvMjZlOW41b3MzYW1rZG05bmEzYXlhamJqaGk5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif">
 
 ## About Me
 
 I’m a Computer Science Engineering student passionate about building **interactive and practical software**.
 
 I enjoy experimenting with:
-
-- Web development  
-- AI tools  
-- automation  
-- deployable projects  
+- Web development
+- AI tools
+- automation
+- deployable projects
 
 My focus is simple:
 
-> **Build things that actually work and ship them.**
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlydmgwOHhvZHNmcXRkcm5yMDUxMnYxenMxN2l0Z3V5a28yaHJ1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="180">
-
-<br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem54Z3ptNnJiMjZvMjZlOW41b3MzYW1rZG05bmEzYXlhamJqaGk5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif" width="180">
-
-</td>
-</tr>
-</table>
+> Build things that actually work and ship them.
 
 ---
 
@@ -87,7 +70,6 @@ My focus is simple:
 ## Projects
 
 ### Recyclytix
-
 Waste management awareness platform with integrated maps and guides.
 
 🔗 https://github.com/likhitnaidu/recyclytix
@@ -95,7 +77,6 @@ Waste management awareness platform with integrated maps and guides.
 ---
 
 ### Portfolio Website
-
 Personal website showcasing projects and skills.
 
 🔗 https://porfolio-main-amber.vercel.app/
@@ -114,9 +95,7 @@ Personal website showcasing projects and skills.
 ## Contact
 
 📧 m.likhitwork@gmail.com  
-
 🔗 https://linkedin.com/in/mlikhitnaidu  
-
 💻 https://github.com/likhitnaidu  
 
 ---
