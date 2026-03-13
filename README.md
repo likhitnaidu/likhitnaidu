@@ -33,7 +33,7 @@ A personal portfolio to showcase projects, skills, and achievements. Built using
 ---
 
 ## GitHub Stats
-![Likhit Naidu GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlikhitnaidu&show_icons=true&theme=radical)
+![Likhit Naidu GitHub Stats](https://github-readme-stats.vercel.app/api?username=likhitnaidu&show_icons=true&theme=radical)
 
 ---
 
