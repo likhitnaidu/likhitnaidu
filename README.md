@@ -17,7 +17,7 @@ Computer Science Engineering Student • Builder • Tech Explorer
   <a href="https://porfolio-main-amber.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Website-black">
   </a>
-  ![Visitors](https://komarev.com/ghpvc/?username=likhitnaidu)
+  ![Visitors](https://komarev.com/ghpvc/?likhitnaidu=likhitnaidu)
 </p>
 
 ---
