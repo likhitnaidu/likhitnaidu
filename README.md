@@ -24,10 +24,9 @@ Computer Science Engineering Student • Builder • Tech Explorer
 
 ## About Me
 
-I’m a Computer Science Engineering student passionate about building **interactive and practical software**.
+I’m a Computer Science Engineering student passionate about building **interactive and practical software**.I try to do Open Contributions.
 
-
-<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem54Z3ptNnJiMjZvMjZlOW41b3MzYW1rZG05bmEzYXlhamJqaGk5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif">
+<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRnMjRlcTBuNXNvc28xcmFqendwdzdlbzN2ZjJlMDZsaGs2NXB1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/srBmToo11bi2Ho8U39/giphy.gif">
 
 I enjoy experimenting with:
 - Web development
