@@ -76,6 +76,7 @@ Waste management awareness platform with integrated maps and guides.
 🔗 https://github.com/likhitnaidu/recyclytix
 
 ---
+<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXB3N25vc201ZTBuZDExM3E1Y2UxMHY0dWVtcmVyaDM5ODlyMHdybSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/srBmToo11bi2Ho8U39/giphy.gif">
 
 ### Portfolio Website
 Personal website showcasing projects and skills.
