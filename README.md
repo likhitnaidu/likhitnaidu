@@ -102,5 +102,5 @@ Personal website showcasing projects and skills.
 ---
 
 <p align="center">
-<b>"Talk is cheap. Show me the code."</b>
+<b>"Sahi hai Tera."</b>
 </p>
