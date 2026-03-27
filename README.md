@@ -14,7 +14,7 @@ Computer Science Engineering Student • Builder • Tech Explorer
   <a href="https://linkedin.com/in/mlikhitnaidu">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
   </a>
-  <a href="https://porfolio-main-amber.vercel.app/">
+  <a href="https://likhitnaidu.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Website-black">
   </a>
 
@@ -80,7 +80,7 @@ Waste management awareness platform with integrated maps and guides.
 ### Portfolio Website
 Personal website showcasing projects and skills.
 
-🔗 https://porfolio-main-amber.vercel.app/
+🔗 [https://porfolio-main-amber.vercel.app/](https://likhitnaidu.vercel.app/)
 
 ---
 
