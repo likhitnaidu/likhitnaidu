@@ -80,7 +80,7 @@ Waste management awareness platform with integrated maps and guides.
 ### Portfolio Website
 Personal website showcasing projects and skills.
 
-🔗 [https://porfolio-main-amber.vercel.app/](https://likhitnaidu.vercel.app/)
+🔗 https://likhitnaidu.vercel.app/
 
 ---
 
