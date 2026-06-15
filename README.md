@@ -70,8 +70,8 @@ My focus is simple:
 
 ## Projects
 
-### Recyclytix
-Waste management awareness platform with integrated maps and guides.
+### Gesture Based IDE 
+An IDE type interface which works with hand gestures using mediapipe
 
 🔗 https://github.com/likhitnaidu/recyclytix
 
