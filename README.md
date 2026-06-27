@@ -81,7 +81,7 @@ My focus is simple:
 ### Gesture Based IDE 
 An IDE type interface which works with hand gestures using mediapipe
 
-🔗 https://github.com/likhitnaidu/recyclytix
+🔗 https://github.com/likhitnaidu
 
 ---
 
