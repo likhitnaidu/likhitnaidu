@@ -23,20 +23,8 @@ Computer Science Engineering Student • Builder • Tech Explorer
 ---
 
 ## About Me
-
-I’m a Computer Science Engineering student passionate about building **interactive and practical software**.I try to do Open Contributions.
-
-<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB3eXV6dzk2enE3NHI4MmVubXN5ZWZ2OG5qZWluZTg0NGlvc2w4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif">
-
-I enjoy experimenting with:
-- Web development
-- AI tools
-- automation
-- deployable projects
-
-My focus is simple:
-
 > Build things that actually work and ship them.
+> nothing else
 
 ---
 
@@ -63,42 +51,8 @@ My focus is simple:
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,vercel,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,vercel" />
 </p>
-
----
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWI0MW9uYjlvbXBzbzdma2Fyb29vbnBlaXdhZjlqeGV3MGsxOGY5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif" width="400">
-</p>
-
----
-
-## Projects
-
-### Gesture Based IDE 
-An IDE type interface which works with hand gestures using mediapipe
-
-🔗 https://github.com/likhitnaidu
-
----
-
-### Portfolio Website
-Personal website showcasing projects and skills.
-
-🔗 https://likhitnaidu.vercel.app/
-
----
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=likhitnaidu&show_icons=true&theme=radical" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhitnaidu&layout=compact&theme=radical" height="170">
-</p>
-
 ---
 
 ## Contact
