@@ -28,15 +28,7 @@ Computer Science Engineering Student • Builder • Tech Explorer
 > Build things that actually work and ship them.
  nothing else
 </p>
----
 
-## Contact
-
-📧 m.likhitwork@gmail.com  
-🔗 https://linkedin.com/in/mlikhitnaidu  
-💻 https://github.com/likhitnaidu  
-
----
 
 <h1 align="center">
 <b>"Sahi hai Tera."</b>
