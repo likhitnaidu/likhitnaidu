@@ -21,11 +21,13 @@ Computer Science Engineering Student • Builder • Tech Explorer
 </p>
 
 ---
-
+<h1 align="center">
 ## About Me
+</h1>
+<p align="center">
 > Build things that actually work and ship them.
-> nothing else
-
+ nothing else
+</p>
 ---
 
 ## Contact
