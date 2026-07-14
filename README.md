@@ -22,7 +22,7 @@ Computer Science Engineering Student • Builder • Tech Explorer
 
 ---
 <h1 align="center">
-## About Me
+ About Me
 </h1>
 <p align="center">
 > Build things that actually work and ship them.
