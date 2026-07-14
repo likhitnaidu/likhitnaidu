@@ -28,33 +28,6 @@ Computer Science Engineering Student • Builder • Tech Explorer
 
 ---
 
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,vercel" />
-</p>
----
-
 ## Contact
 
 📧 m.likhitwork@gmail.com  
@@ -63,6 +36,6 @@ Computer Science Engineering Student • Builder • Tech Explorer
 
 ---
 
-<p align="center">
+<h1 align="center">
 <b>"Sahi hai Tera."</b>
-</p>
+</h1>
