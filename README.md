@@ -1,9 +1,7 @@
 <h1 align="center">M. Likhit Naidu</h1>
-
 <p align="center">
 Computer Science Engineering Student • Builder • Tech Explorer
 </p>
-
 <p align="center">
   <a href="https://github.com/likhitnaidu">
     <img src="https://img.shields.io/github/followers/likhitnaidu?style=social">
@@ -17,15 +15,11 @@ Computer Science Engineering Student • Builder • Tech Explorer
   <a href="https://likhitnaidu.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Website-black">
   </a>
-
 </p>
----
 <p align="center">
-> Build things that actually work and ship them.
+Build things that actually work and ship them.
  nothing else
 </p>
-
-
 <h1 align="center">
 <b>"Sahi hai Tera."</b>
 </h1>
