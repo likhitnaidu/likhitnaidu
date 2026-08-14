@@ -5,7 +5,7 @@
 **Builder • Problem Solver • Founder • Dreamer**
 
 <img src="./assets/profile.png" alt="Nads" width="700"/>
-
+</div>
 ### `$ whoami`
 
 Student • Builder • Founder • Problem Solver • Hacker
