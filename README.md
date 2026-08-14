@@ -1,19 +1,18 @@
-````md
-# Hey, I'm Likhit 👋
 
-> **Builder • Problem Solver • Founder • Dreamer**
+# Hey, I'm Nads 👋
+
+ **Builder • Problem Solver • Founder • Dreamer**
 
 <img src="./assets/profile.png" alt="Likhit" width="700"/>
 
 ### `$ whoami`
 
-```text
 Student
 Builder
 Founder
 Problem Solver
 Hacker
-````
+
 
 I'm a student focused on **AI, systems, quant dev, DevOps, and full-stack engineering**.
 
@@ -37,15 +36,14 @@ I'm a student focused on **AI, systems, quant dev, DevOps, and full-stack engine
 
 > **Discipline builds freedom.**
 
-```text
+
 Learn → Build → Ship → Fail → Iterate
-```
+
 
 ### 🌐
 
 [Portfolio](https://likhitv.vercel.app/) • [X](https://x.com/M_Likhit_Naidu)
 
-```text
 while (true) {
     learn();
     build();
@@ -56,7 +54,7 @@ while (true) {
 **CTO IN PROGRESS_**
 
 ```
-```
+
 
 <h1 align="center">
 <b>"Sahi hai Tera."</b>
