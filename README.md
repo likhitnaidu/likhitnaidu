@@ -1,60 +1,57 @@
+<div align="center">
 
 # Hey, I'm Nads 👋
 
- **Builder • Problem Solver • Founder • Dreamer**
+**Builder • Problem Solver • Founder • Dreamer**
 
-<img src="./assets/profile.png" alt="Likhit" width="700"/>
+<img src="./assets/profile.png" alt="Nads" width="700"/>
 
 ### `$ whoami`
 
-Student
-Builder
-Founder
-Problem Solver
-Hacker
-
+Student • Builder • Founder • Problem Solver • Hacker
 
 I'm a student focused on **AI, systems, quant dev, DevOps, and full-stack engineering**.
 
 `idea → code → product → reality`
 
+---
+
 ### ⚡ Focus
 
-* 🤖 AI / Agents
-* 📈 Quant Dev
-* ⚙️ Systems & DevOps
-* 🌐 Full Stack
-* 🧠 Algorithms & System Design
+🤖 AI / Agents  
+📈 Quant Dev  
+⚙️ Systems & DevOps  
+🌐 Full Stack  
+🧠 Algorithms & System Design
+
+---
 
 ### 🚀 Building
 
-**RecycLytix** — recycling discovery platform
-**Guardian Campus** — AI-powered lost & found
-**Attendance Intelligence** — attendance analytics & prediction
+**RecycLytix** — Recycling discovery platform  
+**Guardian Campus** — AI-powered lost & found  
+**Attendance Intelligence** — Attendance analytics & prediction
+
+---
 
 ### 🧭 Philosophy
 
 > **Discipline builds freedom.**
 
+`Learn → Build → Ship → Fail → Iterate`
 
-Learn → Build → Ship → Fail → Iterate
-
+---
 
 ### 🌐
 
 [Portfolio](https://likhitv.vercel.app/) • [X](https://x.com/M_Likhit_Naidu)
 
+```text
 while (true) {
     learn();
     build();
     ship();
 }
-```
-
-**CTO IN PROGRESS_**
-
-```
-
 
 <h1 align="center">
 <b>"Sahi hai Tera."</b>
