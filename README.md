@@ -6,7 +6,7 @@
 
 <img src="./assets/profile.png" alt="Nads" width="700"/>
 </div>
-### `$ whoami`
+`$ whoami`
 
 Student • Builder • Founder • Problem Solver • Hacker
 
@@ -16,17 +16,17 @@ I'm a student focused on **AI, systems, quant dev, DevOps, and full-stack engine
 
 ---
 
-### ⚡ Focus
+ Focus
 
-🤖 AI / Agents  
-📈 Quant Dev  
-⚙️ Systems & DevOps  
-🌐 Full Stack  
-🧠 Algorithms & System Design
+ AI / Agents  
+ Quant Dev  
+ Systems & DevOps  
+ Full Stack  
+ Algorithms & System Design
 
 ---
 
-### 🚀 Building
+ Building
 
 **RecycLytix** — Recycling discovery platform  
 **Guardian Campus** — AI-powered lost & found  
