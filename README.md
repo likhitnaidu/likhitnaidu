@@ -4,7 +4,7 @@
 
 **Builder • Problem Solver • Founder • Dreamer**
 
-<img src="./assets/profile.png" alt="Nads" width="700"/>
+<img src="./img.png" alt="Nads" width="700"/>
 </div>
 `$ whoami`
 
