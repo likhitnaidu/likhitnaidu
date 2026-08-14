@@ -1,4 +1,4 @@
-<h1 align="center">M. Likhit Naidu</h1>
+
 <p align="center">
 Computer Science Engineering Student • Builder • Tech Explorer
 </p>
