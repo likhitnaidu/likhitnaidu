@@ -33,7 +33,7 @@ I'm a student focused on **AI, systems, quant dev, DevOps, and full-stack engine
 
 ---
 
-### 🧭 Philosophy
+ Philosophy
 
 > **Discipline builds freedom.**
 
@@ -41,7 +41,7 @@ I'm a student focused on **AI, systems, quant dev, DevOps, and full-stack engine
 
 ---
 
-### 🌐
+ 
 
 [Portfolio](https://likhitv.vercel.app/) • [X](https://x.com/M_Likhit_Naidu)
 
