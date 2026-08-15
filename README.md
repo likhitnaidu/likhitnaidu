@@ -56,4 +56,4 @@ while (true) {
 <h1 align="center">
 <b>"Sahi hai Tera."</b>
 </h1>
-<img src="./ll">
+
