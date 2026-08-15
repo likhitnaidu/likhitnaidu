@@ -1,49 +1,73 @@
+Got it. No emojis. I’d also remove the excessive decorative formatting—the README will look more professional and less like a generic AI-generated profile.
+
+````markdown id="63821"
 <div align="center">
 
-# Hey, I'm Nads 👋
+# Hey, I'm Nads
 
 **Builder • Problem Solver • Founder • Dreamer**
-<img src="./img.png" alt="Nads" width="700"/>
-</div>
-`$ whoami`
 
-Student • Builder • Founder • Problem Solver • Hacker
+<img src="./img.png" alt="Nads" width="260"/>
+
+`Student • Builder • Founder • Problem Solver • Hacker`
+
+</div>
+
+---
+
+## `$ whoami`
 
 I'm a student focused on **AI, systems, quant dev, DevOps, and full-stack engineering**.
 
-`idea → code → product → reality`
+```text
+idea → code → product → reality
+````
 
 ---
 
- Focus
+## Focus
 
- AI / Agents  
- Quant Dev  
- Systems & DevOps  
- Full Stack  
- Algorithms & System Design
-
----
-
- Building
-
-**RecycLytix** — Recycling discovery platform  
-**Guardian Campus** — AI-powered lost & found  
-**Attendance Intelligence** — Attendance analytics & prediction
+* **AI / Agents**
+* **Quant Dev**
+* **Systems & DevOps**
+* **Full Stack**
+* **Algorithms & System Design**
 
 ---
 
- Philosophy
+## Building
+
+### RecycLytix
+
+Recycling discovery platform.
+
+### Guardian Campus
+
+AI-powered lost & found ecosystem.
+
+### Attendance Intelligence
+
+Attendance analytics and prediction platform.
+
+---
+
+## Philosophy
 
 > **Discipline builds freedom.**
 
-`Learn → Build → Ship → Fail → Iterate`
+```text
+Learn → Build → Ship → Fail → Iterate
+```
 
 ---
 
- 
+## Connect
 
 [Portfolio](https://likhitv.vercel.app/) • [X](https://x.com/M_Likhit_Naidu)
+
+---
+
+<div align="center">
 
 ```text
 while (true) {
@@ -51,9 +75,12 @@ while (true) {
     build();
     ship();
 }
-
 ```
-<h1 align="center">
-<b>"Sahi hai Tera."</b>
-</h1>
+
+### **"Sahi hai Tera."**
+
+</div>
+```
+
+For **color**, don't add fake HTML/CSS to the README. GitHub controls most of the styling. The clean way to make it colorful is to use **GitHub-supported badges/SVGs** and a properly designed circular profile image, while keeping the actual text monochrome.
 
