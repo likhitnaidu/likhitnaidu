@@ -1,6 +1,4 @@
-Got it. No emojis. I’d also remove the excessive decorative formatting—the README will look more professional and less like a generic AI-generated profile.
 
-````markdown id="63821"
 <div align="center">
 
 # Hey, I'm Nads
