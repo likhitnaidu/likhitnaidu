@@ -3,7 +3,7 @@
 # Hey, I'm Nads 👋
 
 **Builder • Problem Solver • Founder • Dreamer**
-<img src="./img.png" alt="Nads" width="700" style="border-radius: 50%; aspect-ratio: 1; object-fit: cover;"/>
+<img src="./img.png" alt="Nads" width="500"/>
 </div>
 `$ whoami`
 
