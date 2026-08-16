@@ -39,9 +39,9 @@ idea → code → product → reality
 [Portfolio](https://likhitv.vercel.app/) • [X](https://x.com/M_Likhit_Naidu)
 
 ---
-
+<div align="center">
 ### **"Sahi hai Tera."**
-
+</div>
 </div>
 
 
