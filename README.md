@@ -31,31 +31,6 @@ idea → code → product → reality
 * **Full Stack**
 * **Algorithms & System Design**
 
----
-
-## Building
-
-### RecycLytix
-
-Recycling discovery platform.
-
-### Guardian Campus
-
-AI-powered lost & found ecosystem.
-
-### Attendance Intelligence
-
-Attendance analytics and prediction platform.
-
----
-
-## Philosophy
-
-> **Discipline builds freedom.**
-
-```text
-Learn → Build → Ship → Fail → Iterate
-```
 
 ---
 
@@ -65,20 +40,8 @@ Learn → Build → Ship → Fail → Iterate
 
 ---
 
-<div align="center">
-
-```text
-while (true) {
-    learn();
-    build();
-    ship();
-}
-```
-
 ### **"Sahi hai Tera."**
 
 </div>
-```
 
-For **color**, don't add fake HTML/CSS to the README. GitHub controls most of the styling. The clean way to make it colorful is to use **GitHub-supported badges/SVGs** and a properly designed circular profile image, while keeping the actual text monochrome.
 
