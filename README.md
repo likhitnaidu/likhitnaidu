@@ -40,7 +40,7 @@ idea → code → product → reality
 
 ---
 <div align="center">
-### **"Sahi hai Tera."**
+<h1>Sahi hai Tera.</h1>
 </div>
 </div>
 
