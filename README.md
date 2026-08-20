@@ -15,7 +15,7 @@
 
 ## `$ whoami`
 
-I'm a student focused on **AI, systems, quant dev, DevOps, and full-stack engineering**.
+I'm a student focused on **AI systems, quant dev, and full-stack engineering**.
 
 ```text
 idea → code → product → reality
