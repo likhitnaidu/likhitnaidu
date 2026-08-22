@@ -35,7 +35,7 @@ idea → code → product → reality
 ---
 ## One of my projects lets 🫵 u add this type of streak image 
 ## add your own https://streak-line-three.vercel.app
-## don't worry i took security measures (atleast how much i know)
+## will make it dynamic
 <div align="center">
   <img src="https://streak-line-three.vercel.app/card/geekyNads" alt="StreakLine" />
 </div>
