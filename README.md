@@ -12,6 +12,12 @@
 </div>
 
 ---
+## One of my projects lets 🫵 u add this type of streak image add your own https://streak-line-three.vercel.app
+
+<div align="center">
+  <img src="https://streak-line-three.vercel.app/card/geekyNads" alt="StreakLine" />
+</div>
+---
 
 ## `$ whoami`
 
@@ -33,12 +39,7 @@ idea → code → product → reality
 
 
 ---
-## One of my projects lets 🫵 u add this type of streak image 
-## add your own https://streak-line-three.vercel.app
-## will make it dynamic
-<div align="center">
-  <img src="https://streak-line-three.vercel.app/card/geekyNads" alt="StreakLine" />
-</div>
+
 ## Connect
 
 [Portfolio](https://likhitv.vercel.app/) • [X](https://x.com/M_Likhit_Naidu)
