@@ -23,6 +23,7 @@
 ## `$ whoami`
 
 I'm a student focused on **AI systems, quant dev, and full-stack engineering**.
+i used to do eveything with AI now am having second thoughts 😶‍🌫️
 
 ```text
 idea → code → product → reality
