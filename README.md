@@ -33,8 +33,12 @@ idea → code → product → reality
 
 
 ---
+## One of my projects lets 🫵 u add this type of streak image 
+## add your own https://streak-line-three.vercel.app
+## don't worry i took security measures (atleast how much i know)
+<div align="center">
 ![streakline](https://streak-line-three.vercel.app/card/geekyNads)
-
+</div>
 ## Connect
 
 [Portfolio](https://likhitv.vercel.app/) • [X](https://x.com/M_Likhit_Naidu)
