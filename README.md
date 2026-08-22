@@ -37,7 +37,7 @@ idea → code → product → reality
 ## add your own https://streak-line-three.vercel.app
 ## don't worry i took security measures (atleast how much i know)
 <div align="center">
-![streakline](https://streak-line-three.vercel.app/card/geekyNads)
+  <img src="https://streak-line-three.vercel.app/card/geekyNads" alt="StreakLine" />
 </div>
 ## Connect
 
