@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm [Nads](https://geekynads.github.io/portfolio/)
+# Hey, I'm [GeekyNads](https://geekynads.github.io/portfolio/) 👋
 
 **Builder • Problem Solver • Founder • Dreamer**
 
