@@ -19,6 +19,8 @@
 </div>
 
 ---
+## Inspiration 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GeekyNads)](https://git.io/streak-stats)
 
 ## `$ whoami`
 
