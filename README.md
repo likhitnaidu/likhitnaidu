@@ -28,7 +28,7 @@ I used to do everything with AI. Now I'm having second thoughts. 😶‍🌫️
 ```text
 idea → code → product → reality
 ````
-[Guardians of the Galaxy - ＂Baby Groot＂ Clip [BEPbXYzE5_Y].webm](https://github.com/user-attachments/assets/4eed647a-0521-456c-83f0-33b42dcb51d9)
+
 
 ---
 
