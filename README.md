@@ -45,7 +45,7 @@ idea → code → product → reality
 
 ## Connect
 
-[Portfolio](https://likhitv.vercel.app/) • [X](https://x.com/M_Likhit_Naidu)
+[Portfolio](https://geekynads.github.io/portfolio/) • [X](https://x.com/M_Likhit_Naidu)
 
 ---
 <div align="center">
