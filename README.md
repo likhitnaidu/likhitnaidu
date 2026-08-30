@@ -14,9 +14,7 @@
 ---
 ## One of my projects lets 🫵 u add this type of streak image add your own https://streak-line-three.vercel.app
 
-<div align="center">
-  <img src="https://streak-line-three.vercel.app/card/geekyNads" alt="StreakLine" />
-</div>
+![streakline](https://streak-line-three.vercel.app/card/geekyNads?theme=dark)
 
 ---
 
