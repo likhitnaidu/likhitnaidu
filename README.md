@@ -3,6 +3,8 @@
 
 # Hey, I'm [GeekyNads](https://geekynads.github.io/portfolio/) 👋
 
+![streak](https://streak-line-three.vercel.app/badge/geekyNads)
+
 **Builder • Problem Solver • Founder • Dreamer**
 
 <img src="./img.png" alt="Nads" width="260"/>
@@ -15,7 +17,7 @@
 ## One of my projects lets 🫵 u add this type of streak image add your own https://streak-line-three.vercel.app
 <div align="center">
   
-![streak](https://streak-line-three.vercel.app/badge/geekyNads)
+![streakline](https://streak-line-three.vercel.app/card/geekyNads?theme=light)
 
 </div>
 
