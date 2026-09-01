@@ -7,7 +7,6 @@
 
 **Builder • Problem Solver • Founder • Dreamer**
 
-<img src="./img.png" alt="Nads" width="260"/>
 
 `Student • Builder • Founder • Problem Solver • Hacker`
 
