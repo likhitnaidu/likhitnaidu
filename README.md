@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm [GeekyNads](https://geekynads.github.io/portfolio/) 👋
+# Hey, I'm [GeekyNads](https://geekynads.github.io/Portfolio/) 👋
 
 ![streak](https://streak-line-three.vercel.app/badge/geekyNads)
 
